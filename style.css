@@ -1,0 +1,22 @@
+/* Non-critical styles */
+::selection {
+    background: #36f8a3;
+}
+
+::-moz-selection {
+    background: #36f8a3;
+}
+
+.writing-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+/* Font family is added after load */
+body {
+    font-family: 'Source Sans Pro', system-ui, -apple-system, sans-serif;
+}
+
+.title {
+    font-family: 'Source Sans Pro', system-ui, -apple-system, sans-serif;
+}
