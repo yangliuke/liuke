@@ -1,1 +1,1 @@
-# Liuke Yang Redirects to [linkedin.com/in/liukeyang](https://www.linkedin.com/in/liukeyang/).
+# Redirects to [linkedin.com/in/liukeyang](https://www.linkedin.com/in/liukeyang/).
